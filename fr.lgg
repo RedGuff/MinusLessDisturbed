@@ -1,1 +1,11 @@
-
+intro0=Plus ou moins, un classique de la programmation sur des entiers.
+intro1=Pour commencer, on est entre
+intro2=et
+intro3=Dans cette version, il y a une perturbation d'amplitude
+intro4=, pour que ce soit plus amusant. Votre proposition, svp ?
+errNumber=Un nombre entier, svp !
+itsMore=Suite aux perturbations possibles, c'est plus !
+itsLess=Suite aux perturbations possibles, c'est moins !
+congratulations1=Bravo ! C'est une magnifique victoire contre les perturbations, avec seulement une unique tentative !
+congratulations2a=Bravo ! C'est une belle victoire contre les perturbations, avec seulement
+congratulations2b=tentatives !

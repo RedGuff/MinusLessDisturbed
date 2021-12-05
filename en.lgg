@@ -1,1 +1,12 @@
+intro0=More or less, a classic of integer programming.
+intro1=First, we are between
+intro2=and
+intro3=In this version, there is a pertubation:
+intro4=of amplitude, to make it more fun. Your proposal, please?
+errNumber=A whole number, please!
+itsMore=Because of the possible disturbances, it's more!
+itsLess=Because of the possible disturbances, it's less!
+congratulations1=Congratulations! It's a magnificent victory against the pertubation, with just one single attempt!
+congratulations2a=Well done! It's a good victory against the pertubations, with only
+congratulations2b=attempts!
 
